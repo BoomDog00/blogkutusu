@@ -1,0 +1,45 @@
+body{
+    background: url("../img/bg-login.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/*Logo*/
+
+
+.navbar-default{
+    background-color: transparent;
+    border:0;
+}
+
+.navbar-brand {
+  transform: translateX(-50%);
+  left: 53%;
+  position: absolute;
+}
+
+/*Logo*/
+/*Giriş*/
+
+.giris{
+    padding-top: 55px;
+}
+
+p{
+    color:#fff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 10pt;
+    
+}
+
+.p1{
+    margin-left: 55px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.kayit p{
+    font-size:7pt; 
+}
+@media (min-width: 768) {.btn{
+    margin: 10px 80px;
+    } }
